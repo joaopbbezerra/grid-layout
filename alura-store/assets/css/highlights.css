@@ -1,0 +1,7 @@
+.highlights{
+    background-color: red;
+    display: grid;
+    grid-template-columns: 25vw 25vw 25vw 25vw;
+    grid-template-rows: 33.3vh 33.3vh 33.3vh;
+    height: calc(100vh - 50px);
+}
